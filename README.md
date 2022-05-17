@@ -1,4 +1,4 @@
-# RISC-V Diagrams
+# RISC-V ISA Diagrams
 This is a series of illustrations of RISC-V base instruction sets and extensions. I created the first illustration when I needed one for a technical article, and found no such thing online.
 
 The provided files are in the Inkscape SVG format. Feel free to use and edit them under the license specified below.
