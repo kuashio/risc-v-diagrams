@@ -3,6 +3,9 @@ This is a series of illustrations of RISC-V base instruction sets and extensions
 
 The provided files are in the Inkscape SVG format. Feel free to use and edit them under the license specified below.
 
+Here's the RV32IMAC ISA diagram:
+<img alt="RV32IMAC" style="border-width:0" src="https://github.com/kuashio/risc-v-diagrams/blob/main/RV32IMAC.svg" />
+
 # Requests
 Yeah, I take requests for RISC-V ISA variants like RV32G, RV32EMC, etc. You can reach me by email: kuashio@gmail.com
 
